@@ -10,13 +10,13 @@ Nuclei is an open-source vulnerability scanning tool designed to run customizabl
 Understanding OWASP Top 10
 The OWASP Top 10 is a regularly updated list of the top security risks facing web applications. The current list includes:
 
-Injection (e.g., SQL injection)
-Broken Authentication
-Sensitive Data Exposure
-XML External Entities (XXE)
-Broken Access Control
-Security Misconfiguration
-Cross-Site Scripting (XSS)
-Insecure Deserialization
-Using Components with Known Vulnerabilities
-Insufficient Logging & Monitoring
+1. **Broken Access Control**
+2. **Cryptographic Failures**
+3. **Injection**
+4. **Insecure Design**
+5. **Security Misconfiguration**
+6. **Vulnerable and Outdated Components**
+7. **Identification and Authentication Failures**
+8. **Software and Data Integrity Failures**
+9. **Security Logging and Monitoring Failures**
+10. **Server-Side Request Forgery (SSRF)**
